@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidWorkspace\\BaiduPush\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_new.xml",
+        "source": "E:\\AndroidWorkspace\\BaiduPush\\app\\src\\main\\res\\anim\\activity_new.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkspace\\BaiduPush\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_out.xml",
+        "source": "E:\\AndroidWorkspace\\BaiduPush\\app\\src\\main\\res\\anim\\activity_out.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkspace\\BaiduPush\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_finish.xml",
+        "source": "E:\\AndroidWorkspace\\BaiduPush\\app\\src\\main\\res\\anim\\activity_finish.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkspace\\BaiduPush\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_back.xml",
+        "source": "E:\\AndroidWorkspace\\BaiduPush\\app\\src\\main\\res\\anim\\activity_back.xml"
+    }
+]

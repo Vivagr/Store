@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidWorkspace\\BaiduPush\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidWorkspace\\BaiduPush\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidWorkspace\\BaiduPush\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\simple_notification_icon.png",
+        "source": "E:\\AndroidWorkspace\\BaiduPush\\app\\src\\main\\res\\drawable-ldpi\\simple_notification_icon.png"
+    }
+]
